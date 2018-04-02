@@ -7,4 +7,5 @@ Hulk
 Black Widow
 Hawkeye
 Spider-man
+Wolverine
 These are the members of the avengers.
